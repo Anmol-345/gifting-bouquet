@@ -19,6 +19,9 @@ const jost = Jost({
 export const metadata = {
   title: "Gifting Bouquet | Your moments, our blooms",
   description: "Elegant handcrafted floral arrangements for bouquets, hampers, and weddings in Delhi-NCR.",
+  icons: {
+    icon: '/faviconv-2.ico',
+  },
 };
 
 export default function RootLayout({ children }) {
