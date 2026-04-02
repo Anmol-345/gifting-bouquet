@@ -1,6 +1,6 @@
 export default function Contact() {
-  const whatsappNumber = "919876543210"; // Replace with actual number
-  const email = "hello@giftingbouquet.in"; // Replace with actual email
+  const whatsappNumber = "918950407529"; // Replace with actual number
+  const email = "gifting.bouquet@gmail.com"; // Replace with actual email
   const whatsappMessage = encodeURIComponent("Hi! I'd like to enquire about your floral services.");
 
   return (
